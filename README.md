@@ -51,5 +51,5 @@ $$n_1 \sin(\theta_1) = n_2 \sin(\theta_2)$$
 
 ### 📫 How to reach me?
 
-[![https://www.linkedin.com/in/gustavo-porto-in/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI)
-[![Gustavoporto.gp64@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoporto.gp64@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-porto-in/)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoporto.gp64@gmail.com)
