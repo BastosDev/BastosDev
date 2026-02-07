@@ -19,7 +19,6 @@
 * 🎓 Currently in the **3rd semester** of Information Systems at **IFBA**.
 * 💻 Creating **Physics simulators (Optics and Magnetism)** in Python to apply real concepts to code.
 * ⚙️ Automating my **Arch Linux** environment via Bash scripts and dotfiles.
-* 🎮 Developing mods in **Java** for the Cobblemon project.
 
 ---
 
