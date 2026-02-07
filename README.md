@@ -49,6 +49,15 @@ $$n_1 \sin(\theta_1) = n_2 \sin(\theta_2)$$
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=BastosDev&show_icons=true&theme=dracula" alt="BastosDev's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastosDev&layout=compact&theme=dracula" alt="BastosDev's top languages" />
+</p>
+
+---
+
 ### 📫 How to reach me?
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-porto-in/)
