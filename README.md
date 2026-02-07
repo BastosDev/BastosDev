@@ -1,10 +1,10 @@
-# Olá, eu sou o Gustavo Porto (BastosDev)! 👋
+# Hi, I'm Gustavo Porto (BastosDev)! 👋
 
-Estudante de **Sistemas de Informação** no IFBA (Feira de Santana - BA) com foco em tornar-me um desenvolvedor de elite e pesquisador internacional.
+**Information Systems** student at IFBA (Feira de Santana - BA) focused on becoming an elite developer and international researcher.
 
 ---
 
-### 🛠️ Meu Tech Stack de Cultivo
+### 🛠️ My Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -14,44 +14,42 @@ Estudante de **Sistemas de Informação** no IFBA (Feira de Santana - BA) com fo
 
 ---
 
-### 🔭 O que estou desenvolvendo agora?
+### 🔭 What am I developing right now?
 
-* 🎓 Cursando o **3º semestre** de Sistemas de Informação no **IFBA**.
-* 💻 Criando simuladores de **Física (Ótica e Magnetismo)** em Python para aplicar conceitos reais ao código.
-* ⚙️ Automatizando meu ambiente **Arch Linux** via scripts Bash e dotfiles.
-* 🎮 Desenvolvendo mods em **Java** para o projeto Cobblemon.
+* 🎓 Currently in the **3rd semester** of Information Systems at **IFBA**.
+* 💻 Creating **Physics simulators (Optics and Magnetism)** in Python to apply real concepts to code.
+* ⚙️ Automating my **Arch Linux** environment via Bash scripts and dotfiles.
+* 🎮 Developing mods in **Java** for the Cobblemon project.
 
 ---
 
-### 🔬 Interesses em Computação Científica
+### 🔬 Interests in Scientific Computing
 
-Sou fascinado pela aplicação da computação em problemas de física. Um dos meus focos atuais é a simulação da **Força de Lorentz**:
+I am fascinated by applying computing to physics problems. One of my current focuses is simulating the **Lorentz Force**:
 
 $$\mathbf{F} = q(\mathbf{E} + \mathbf{v} \times \mathbf{B})$$
 
-E estudos em **Ótica Geométrica** utilizando a **Lei de Snell**:
+And studies in **Geometric Optics** using **Snell's Law**:
 
 $$n_1 \sin(\theta_1) = n_2 \sin(\theta_2)$$
 
 ---
 
-### 🎯 Objetivos de Longo Prazo
+### 🎯 Long-term Goals
 
-* 💼 Buscando estágio em **Back-end** ou **DevOps**.
-* 🇯🇵 Preparação para o **MEXT 2029** e intercâmbios acadêmicos na Ásia.
-* ⚛️ Especialização em **Computação Quântica ou Neuromórfica**.
-
----
-
-### 🥊 Além do Código
-
-* 🥊 Praticante de **Boxe**.
-* 📚 Leitor de **Novels Japonesas** (sou fã das obras de Er Gen!).
-* 🎮 Jogador de Minecraft, Project Slayers e Fisch no Roblox.
+* 💼 Seeking an internship in **Back-end** or **DevOps**.
+* 🇯🇵 Preparing for **MEXT 2029** and academic exchanges in Asia.
+* ⚛️ Specialization in **Quantum or Neuromorphic Computing**.
 
 ---
 
-### 📊 Estatísticas de Cultivador
+### ⚡ Beyond the Code
+
+* 🏋️‍♂️ Working out at the gym.
+
+---
+
+### 📊 Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=BastosDev&show_icons=true&theme=dracula" />
@@ -60,7 +58,7 @@ $$n_1 \sin(\theta_1) = n_2 \sin(\theta_2)$$
 
 ---
 
-### 📫 Como me encontrar?
+### 📫 How to reach me?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoporto.gp64@gmail.com)
